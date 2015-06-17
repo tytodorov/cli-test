@@ -1,0 +1,45 @@
+{
+	"ProjectName": "koj",
+	"ProjectGuid": "{597dcd8d-fb1c-46de-ad4e-476f3704965c}",
+	"projectVersion": 1,
+	"AppIdentifier": "com.telerik.koj",
+	"DisplayName": "koj",
+	"Author": "",
+	"Description": "koj",
+	"BundleVersion": "1.0",
+	"AndroidVersionCode": "1",
+	"iOSDeviceFamily": [
+		"1",
+		"2"
+	],
+	"iOSBackgroundMode": [],
+	"ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+	"FrameworkVersion": "3.7.0",
+	"AndroidPermissions": [
+		"android.permission.INTERNET"
+	],
+	"DeviceOrientations": [
+		"Portrait",
+		"Landscape"
+	],
+	"AndroidHardwareAcceleration": "false",
+	"iOSStatusBarStyle": "Default",
+	"Framework": "Cordova",
+	"WP8TileTitle": "",
+	"WP8Publisher": "",
+	"WP8Capabilities": [
+		"ID_CAP_NETWORKING",
+		"ID_CAP_WEBBROWSERCOMPONENT"
+	],
+	"WP8Requirements": [],
+	"WP8PublisherID": "{e5c70be6-96ee-465c-b0db-7c8e88b9af92}",
+	"WP8ProductID": "{a25ea5ea-a6b9-4121-b717-c1f80d712bf4}",
+	"WPSdk": "8.0",
+	"WP8PackageIdentityName": "1234Telerik.com.telerik.koj",
+	"WP8WindowsPublisherName": "CN=Telerik",
+	"WP8SupportedResolutions": [
+		"ID_RESOLUTION_WVGA",
+		"ID_RESOLUTION_WXGA",
+		"ID_RESOLUTION_HD720P"
+	]
+}
